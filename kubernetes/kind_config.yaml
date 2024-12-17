@@ -1,0 +1,7 @@
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+nodes:
+  - role: control-plane
+    extraMounts:
+      - hostPath: /home/vboxuser/CLoud_Comp_workspace/lstm_project/shared_model/nvda_stock_model # Path on your host machine
+        containerPath: /shared/models            # Path inside the Kind cluster nodes

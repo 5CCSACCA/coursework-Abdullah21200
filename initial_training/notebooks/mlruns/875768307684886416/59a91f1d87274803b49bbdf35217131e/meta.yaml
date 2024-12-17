@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/59a91f1d87274803b49bbdf35217131e/artifacts
+deleted_time: 1734413089526
+end_time: 1734410430893
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 59a91f1d87274803b49bbdf35217131e
+run_name: bright-sloth-924
+run_uuid: 59a91f1d87274803b49bbdf35217131e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734410375635
+status: 3
+tags: []
+user_id: abdullah

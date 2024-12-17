@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/107cacb0cf534973a81f852fdcc94bb2/artifacts
+deleted_time: 1734419417764
+end_time: 1734409898923
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 107cacb0cf534973a81f852fdcc94bb2
+run_name: unequaled-skunk-283
+run_uuid: 107cacb0cf534973a81f852fdcc94bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734409888144
+status: 3
+tags: []
+user_id: abdullah

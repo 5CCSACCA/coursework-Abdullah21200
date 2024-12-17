@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/be9ac22effcf4834bfe64107b46c636f/artifacts
+deleted_time: 1734419417711
+end_time: 1734366908327
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: be9ac22effcf4834bfe64107b46c636f
+run_name: selective-loon-305
+run_uuid: be9ac22effcf4834bfe64107b46c636f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734366634986
+status: 3
+tags: []
+user_id: abdullah

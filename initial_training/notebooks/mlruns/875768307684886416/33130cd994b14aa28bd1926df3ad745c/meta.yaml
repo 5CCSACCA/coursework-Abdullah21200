@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/33130cd994b14aa28bd1926df3ad745c/artifacts
+deleted_time: 1734419417692
+end_time: 1734352581096
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 33130cd994b14aa28bd1926df3ad745c
+run_name: powerful-calf-161
+run_uuid: 33130cd994b14aa28bd1926df3ad745c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734352450473
+status: 3
+tags: []
+user_id: abdullah

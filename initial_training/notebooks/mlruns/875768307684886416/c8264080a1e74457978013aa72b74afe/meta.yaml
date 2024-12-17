@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/c8264080a1e74457978013aa72b74afe/artifacts
+deleted_time: 1734419417763
+end_time: 1734408718350
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: c8264080a1e74457978013aa72b74afe
+run_name: fun-cat-567
+run_uuid: c8264080a1e74457978013aa72b74afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734408714224
+status: 4
+tags: []
+user_id: abdullah

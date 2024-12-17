@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/45129563a857453180437090f4bbb2b9/artifacts
+deleted_time: 1734350905815
+end_time: 1734350825068
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 45129563a857453180437090f4bbb2b9
+run_name: suave-whale-864
+run_uuid: 45129563a857453180437090f4bbb2b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734350794323
+status: 3
+tags: []
+user_id: abdullah

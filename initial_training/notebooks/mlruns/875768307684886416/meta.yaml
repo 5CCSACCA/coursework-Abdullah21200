@@ -1,0 +1,6 @@
+artifact_location: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416
+creation_time: 1733944667946
+experiment_id: '875768307684886416'
+last_update_time: 1733944667946
+lifecycle_stage: active
+name: LSTM_stock_prediction_initial_training

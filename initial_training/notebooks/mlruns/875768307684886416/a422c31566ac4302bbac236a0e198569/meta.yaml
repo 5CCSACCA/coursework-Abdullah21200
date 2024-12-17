@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/a422c31566ac4302bbac236a0e198569/artifacts
+end_time: 1734405760689
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: a422c31566ac4302bbac236a0e198569
+run_name: nimble-dog-676
+run_uuid: a422c31566ac4302bbac236a0e198569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734405704733
+status: 3
+tags: []
+user_id: abdullah

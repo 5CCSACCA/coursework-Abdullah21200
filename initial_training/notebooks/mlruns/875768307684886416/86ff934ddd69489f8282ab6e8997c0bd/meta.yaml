@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/86ff934ddd69489f8282ab6e8997c0bd/artifacts
+deleted_time: 1734419417756
+end_time: 1734407650370
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 86ff934ddd69489f8282ab6e8997c0bd
+run_name: sassy-conch-75
+run_uuid: 86ff934ddd69489f8282ab6e8997c0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734407628751
+status: 3
+tags: []
+user_id: abdullah

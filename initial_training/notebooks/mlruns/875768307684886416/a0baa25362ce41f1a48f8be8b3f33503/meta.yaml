@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/a0baa25362ce41f1a48f8be8b3f33503/artifacts
+end_time: 1734403489912
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: a0baa25362ce41f1a48f8be8b3f33503
+run_name: bemused-pig-782
+run_uuid: a0baa25362ce41f1a48f8be8b3f33503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734403465575
+status: 3
+tags: []
+user_id: abdullah

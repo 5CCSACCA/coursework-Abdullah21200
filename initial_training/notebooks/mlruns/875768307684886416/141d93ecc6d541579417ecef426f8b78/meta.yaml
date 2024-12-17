@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/141d93ecc6d541579417ecef426f8b78/artifacts
+end_time: 1734406486122
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 141d93ecc6d541579417ecef426f8b78
+run_name: nimble-moose-318
+run_uuid: 141d93ecc6d541579417ecef426f8b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734406469206
+status: 3
+tags: []
+user_id: abdullah

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/112878b779ff4cc3acd9ec78ce2e9136/artifacts
+deleted_time: 1734419417722
+end_time: 1734401558558
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 112878b779ff4cc3acd9ec78ce2e9136
+run_name: salty-deer-648
+run_uuid: 112878b779ff4cc3acd9ec78ce2e9136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734401530001
+status: 3
+tags: []
+user_id: abdullah

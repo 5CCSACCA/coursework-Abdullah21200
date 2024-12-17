@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/788ad6b019b9486f9dc350c81c0d144f/artifacts
+deleted_time: 1734419417710
+end_time: 1734369456310
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 788ad6b019b9486f9dc350c81c0d144f
+run_name: blushing-smelt-152
+run_uuid: 788ad6b019b9486f9dc350c81c0d144f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734369398234
+status: 3
+tags: []
+user_id: abdullah

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/98839b5df28e43f8b1080e60819f148d/artifacts
+end_time: 1734376156552
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 98839b5df28e43f8b1080e60819f148d
+run_name: bustling-sheep-760
+run_uuid: 98839b5df28e43f8b1080e60819f148d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734376050324
+status: 3
+tags: []
+user_id: abdullah

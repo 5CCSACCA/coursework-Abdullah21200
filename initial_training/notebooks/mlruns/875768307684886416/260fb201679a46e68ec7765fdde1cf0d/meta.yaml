@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/260fb201679a46e68ec7765fdde1cf0d/artifacts
+deleted_time: 1734419417734
+end_time: 1734404800577
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 260fb201679a46e68ec7765fdde1cf0d
+run_name: hilarious-lark-295
+run_uuid: 260fb201679a46e68ec7765fdde1cf0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734404756488
+status: 3
+tags: []
+user_id: abdullah

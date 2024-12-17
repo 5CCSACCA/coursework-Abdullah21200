@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/0e8b316209a54fa08985a72aff2bf4b6/artifacts
+end_time: 1734404083389
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 0e8b316209a54fa08985a72aff2bf4b6
+run_name: burly-wolf-686
+run_uuid: 0e8b316209a54fa08985a72aff2bf4b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734404032012
+status: 3
+tags: []
+user_id: abdullah

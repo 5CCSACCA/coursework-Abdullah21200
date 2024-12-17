@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/c27716ff74624364b759f882710e5b69/artifacts
+deleted_time: 1734350905812
+end_time: 1733944700375
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: c27716ff74624364b759f882710e5b69
+run_name: able-stag-802
+run_uuid: c27716ff74624364b759f882710e5b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733944668915
+status: 3
+tags: []
+user_id: abdullah

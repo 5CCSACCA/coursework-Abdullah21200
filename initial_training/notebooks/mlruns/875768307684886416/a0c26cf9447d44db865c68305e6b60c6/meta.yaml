@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/a0c26cf9447d44db865c68305e6b60c6/artifacts
+deleted_time: 1734419417724
+end_time: 1734403269063
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: a0c26cf9447d44db865c68305e6b60c6
+run_name: resilient-skink-940
+run_uuid: a0c26cf9447d44db865c68305e6b60c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734403132636
+status: 3
+tags: []
+user_id: abdullah

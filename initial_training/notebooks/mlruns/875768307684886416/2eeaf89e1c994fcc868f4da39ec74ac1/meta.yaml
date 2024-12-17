@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/2eeaf89e1c994fcc868f4da39ec74ac1/artifacts
+end_time: 1734402697704
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 2eeaf89e1c994fcc868f4da39ec74ac1
+run_name: amusing-frog-601
+run_uuid: 2eeaf89e1c994fcc868f4da39ec74ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734402642487
+status: 3
+tags: []
+user_id: abdullah

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/e6f4b1ed146d415b97e91e26f19aac5f/artifacts
+deleted_time: 1734419417722
+end_time: 1734380614099
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: e6f4b1ed146d415b97e91e26f19aac5f
+run_name: burly-wren-122
+run_uuid: e6f4b1ed146d415b97e91e26f19aac5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734380584025
+status: 3
+tags: []
+user_id: abdullah

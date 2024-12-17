@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/46b24af70c1d49b7bf08ea4ab7cc56df/artifacts
+end_time: 1734407467217
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 46b24af70c1d49b7bf08ea4ab7cc56df
+run_name: adventurous-bee-905
+run_uuid: 46b24af70c1d49b7bf08ea4ab7cc56df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734407436878
+status: 3
+tags: []
+user_id: abdullah

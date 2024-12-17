@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/c55dfa5780cc4c749145c563ce0b4216/artifacts
+end_time: 1734413344344
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: c55dfa5780cc4c749145c563ce0b4216
+run_name: likeable-bug-857
+run_uuid: c55dfa5780cc4c749145c563ce0b4216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734413167619
+status: 3
+tags: []
+user_id: abdullah

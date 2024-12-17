@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/4c7960a2fe9745da9262051cd308a908/artifacts
+deleted_time: 1734419417736
+end_time: 1734405018444
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 4c7960a2fe9745da9262051cd308a908
+run_name: best-one
+run_uuid: 4c7960a2fe9745da9262051cd308a908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734404982573
+status: 3
+tags: []
+user_id: abdullah

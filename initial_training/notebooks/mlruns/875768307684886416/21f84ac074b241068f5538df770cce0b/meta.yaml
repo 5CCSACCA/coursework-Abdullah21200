@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/21f84ac074b241068f5538df770cce0b/artifacts
+end_time: 1734402140373
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 21f84ac074b241068f5538df770cce0b
+run_name: big-boar-219
+run_uuid: 21f84ac074b241068f5538df770cce0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734402088704
+status: 3
+tags: []
+user_id: abdullah

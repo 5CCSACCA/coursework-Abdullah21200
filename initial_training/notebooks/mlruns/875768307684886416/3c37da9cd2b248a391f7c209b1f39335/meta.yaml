@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/3c37da9cd2b248a391f7c209b1f39335/artifacts
+deleted_time: 1734350905814
+end_time: 1734350440358
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 3c37da9cd2b248a391f7c209b1f39335
+run_name: glamorous-flea-15
+run_uuid: 3c37da9cd2b248a391f7c209b1f39335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734350409128
+status: 3
+tags: []
+user_id: abdullah

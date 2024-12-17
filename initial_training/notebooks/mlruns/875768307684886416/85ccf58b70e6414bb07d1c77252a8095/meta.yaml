@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/85ccf58b70e6414bb07d1c77252a8095/artifacts
+end_time: 1734405607049
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 85ccf58b70e6414bb07d1c77252a8095
+run_name: angry-snail-414
+run_uuid: 85ccf58b70e6414bb07d1c77252a8095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734405568728
+status: 3
+tags: []
+user_id: abdullah

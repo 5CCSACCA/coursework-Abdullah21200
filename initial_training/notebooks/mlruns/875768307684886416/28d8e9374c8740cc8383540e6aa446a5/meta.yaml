@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/28d8e9374c8740cc8383540e6aa446a5/artifacts
+deleted_time: 1734419417722
+end_time: 1734381568729
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 28d8e9374c8740cc8383540e6aa446a5
+run_name: agreeable-bear-549
+run_uuid: 28d8e9374c8740cc8383540e6aa446a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734381555558
+status: 3
+tags: []
+user_id: abdullah

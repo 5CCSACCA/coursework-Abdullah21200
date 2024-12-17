@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/489bf33edb4d48f8aa8d7dde367e4eb5/artifacts
+deleted_time: 1734419417734
+end_time: 1734404511260
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 489bf33edb4d48f8aa8d7dde367e4eb5
+run_name: polite-wasp-942
+run_uuid: 489bf33edb4d48f8aa8d7dde367e4eb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734404468259
+status: 3
+tags: []
+user_id: abdullah

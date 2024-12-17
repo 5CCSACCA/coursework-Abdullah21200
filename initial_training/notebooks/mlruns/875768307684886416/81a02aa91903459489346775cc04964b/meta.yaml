@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/81a02aa91903459489346775cc04964b/artifacts
+end_time: 1734377433795
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 81a02aa91903459489346775cc04964b
+run_name: rare-panda-496
+run_uuid: 81a02aa91903459489346775cc04964b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734377395088
+status: 3
+tags: []
+user_id: abdullah

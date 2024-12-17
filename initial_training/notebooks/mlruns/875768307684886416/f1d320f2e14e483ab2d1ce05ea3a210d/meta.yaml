@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/f1d320f2e14e483ab2d1ce05ea3a210d/artifacts
+deleted_time: 1734355259814
+end_time: 1734355148500
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: f1d320f2e14e483ab2d1ce05ea3a210d
+run_name: adaptable-snipe-699
+run_uuid: f1d320f2e14e483ab2d1ce05ea3a210d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734355097445
+status: 4
+tags: []
+user_id: abdullah

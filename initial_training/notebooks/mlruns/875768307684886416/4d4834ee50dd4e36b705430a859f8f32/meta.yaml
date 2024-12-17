@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/4d4834ee50dd4e36b705430a859f8f32/artifacts
+end_time: 1734405518165
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 4d4834ee50dd4e36b705430a859f8f32
+run_name: amazing-pug-841
+run_uuid: 4d4834ee50dd4e36b705430a859f8f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734405486550
+status: 3
+tags: []
+user_id: abdullah

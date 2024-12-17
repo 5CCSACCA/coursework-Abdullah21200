@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/d38ae26210bc4ab4a006ac3edbb1dae0/artifacts
+deleted_time: 1734419417762
+end_time: 1734408269503
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: d38ae26210bc4ab4a006ac3edbb1dae0
+run_name: trusting-duck-856
+run_uuid: d38ae26210bc4ab4a006ac3edbb1dae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734408232727
+status: 3
+tags: []
+user_id: abdullah

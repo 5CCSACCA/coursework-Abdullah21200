@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734420653724
+current_stage: Production
+description: ''
+last_updated_timestamp: 1734444305462
+name: LSTM
+run_id: 1e48dd4569d64fd3810231c99b2e1dd2
+run_link: ''
+source: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/1e48dd4569d64fd3810231c99b2e1dd2/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/1e48dd4569d64fd3810231c99b2e1dd2/artifacts/model
+user_id: null
+version: 1

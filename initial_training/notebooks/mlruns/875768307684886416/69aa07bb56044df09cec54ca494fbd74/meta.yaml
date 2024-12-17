@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/69aa07bb56044df09cec54ca494fbd74/artifacts
+deleted_time: 1734356113873
+end_time: 1734355666667
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 69aa07bb56044df09cec54ca494fbd74
+run_name: righteous-vole-771
+run_uuid: 69aa07bb56044df09cec54ca494fbd74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734355528116
+status: 3
+tags: []
+user_id: abdullah

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/ed1cb0da8a504c52973119f228ca4f9f/artifacts
+end_time: 1734375819092
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: ed1cb0da8a504c52973119f228ca4f9f
+run_name: popular-cow-577
+run_uuid: ed1cb0da8a504c52973119f228ca4f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734375711112
+status: 3
+tags: []
+user_id: abdullah

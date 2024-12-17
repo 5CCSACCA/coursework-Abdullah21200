@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/7365d94e7fd44f33b29bbe13ecf49aa1/artifacts
+deleted_time: 1734413089526
+end_time: 1734410597860
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 7365d94e7fd44f33b29bbe13ecf49aa1
+run_name: victorious-whale-743
+run_uuid: 7365d94e7fd44f33b29bbe13ecf49aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734410486823
+status: 3
+tags: []
+user_id: abdullah

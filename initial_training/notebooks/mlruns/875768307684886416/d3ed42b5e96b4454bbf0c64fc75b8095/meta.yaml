@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/d3ed42b5e96b4454bbf0c64fc75b8095/artifacts
+deleted_time: 1734419417770
+end_time: 1734410135856
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: d3ed42b5e96b4454bbf0c64fc75b8095
+run_name: fun-trout-415
+run_uuid: d3ed42b5e96b4454bbf0c64fc75b8095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734410088416
+status: 3
+tags: []
+user_id: abdullah

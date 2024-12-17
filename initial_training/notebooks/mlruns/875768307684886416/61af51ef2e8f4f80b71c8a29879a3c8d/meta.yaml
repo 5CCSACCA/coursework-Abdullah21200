@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/61af51ef2e8f4f80b71c8a29879a3c8d/artifacts
+deleted_time: 1734419417745
+end_time: 1734405420378
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 61af51ef2e8f4f80b71c8a29879a3c8d
+run_name: trusting-shrew-604
+run_uuid: 61af51ef2e8f4f80b71c8a29879a3c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734405383256
+status: 3
+tags: []
+user_id: abdullah

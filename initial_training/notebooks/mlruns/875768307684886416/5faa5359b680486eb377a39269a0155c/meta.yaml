@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/5faa5359b680486eb377a39269a0155c/artifacts
+deleted_time: 1734419417747
+end_time: 1734407412748
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 5faa5359b680486eb377a39269a0155c
+run_name: rare-shoat-612
+run_uuid: 5faa5359b680486eb377a39269a0155c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734407363191
+status: 3
+tags: []
+user_id: abdullah

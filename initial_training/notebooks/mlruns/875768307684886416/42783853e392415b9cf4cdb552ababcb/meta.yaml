@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/42783853e392415b9cf4cdb552ababcb/artifacts
+deleted_time: 1734419417756
+end_time: 1734407829106
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 42783853e392415b9cf4cdb552ababcb
+run_name: burly-gull-36
+run_uuid: 42783853e392415b9cf4cdb552ababcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734407777720
+status: 3
+tags: []
+user_id: abdullah

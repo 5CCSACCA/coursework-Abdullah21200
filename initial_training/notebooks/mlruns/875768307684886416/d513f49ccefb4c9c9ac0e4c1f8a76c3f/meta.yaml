@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/d513f49ccefb4c9c9ac0e4c1f8a76c3f/artifacts
+end_time: 1734408040112
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: d513f49ccefb4c9c9ac0e4c1f8a76c3f
+run_name: bald-frog-358
+run_uuid: d513f49ccefb4c9c9ac0e4c1f8a76c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734408000172
+status: 3
+tags: []
+user_id: abdullah

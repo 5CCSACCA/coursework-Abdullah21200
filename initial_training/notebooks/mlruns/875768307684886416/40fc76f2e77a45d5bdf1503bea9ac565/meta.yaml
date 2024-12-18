@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/40fc76f2e77a45d5bdf1503bea9ac565/artifacts
+deleted_time: 1734413089519
+end_time: 1734412457895
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 40fc76f2e77a45d5bdf1503bea9ac565
+run_name: stylish-skink-321
+run_uuid: 40fc76f2e77a45d5bdf1503bea9ac565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734412457790
+status: 4
+tags: []
+user_id: abdullah

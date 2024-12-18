@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/f6d084b1034a43b297d414e893ce965c/artifacts
+deleted_time: 1734419417734
+end_time: 1734404442020
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: f6d084b1034a43b297d414e893ce965c
+run_name: thundering-bee-338
+run_uuid: f6d084b1034a43b297d414e893ce965c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734404402911
+status: 4
+tags: []
+user_id: abdullah

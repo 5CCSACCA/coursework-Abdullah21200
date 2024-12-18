@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/b8cf2558feed40d1bb6317c47880bc23/artifacts
+deleted_time: 1734419417711
+end_time: null
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: b8cf2558feed40d1bb6317c47880bc23
+run_name: sedate-hen-715
+run_uuid: b8cf2558feed40d1bb6317c47880bc23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734368057007
+status: 1
+tags: []
+user_id: abdullah

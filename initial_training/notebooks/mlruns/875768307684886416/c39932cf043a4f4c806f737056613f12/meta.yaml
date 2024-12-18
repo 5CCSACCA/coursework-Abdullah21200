@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/c39932cf043a4f4c806f737056613f12/artifacts
+deleted_time: 1734419417722
+end_time: 1734377271277
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: c39932cf043a4f4c806f737056613f12
+run_name: mysterious-auk-921
+run_uuid: c39932cf043a4f4c806f737056613f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734377183989
+status: 3
+tags: []
+user_id: abdullah

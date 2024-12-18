@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/ba221d48bd684cc993eaa3ee4bc9efdf/artifacts
+end_time: 1734413084679
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: ba221d48bd684cc993eaa3ee4bc9efdf
+run_name: classy-bird-705
+run_uuid: ba221d48bd684cc993eaa3ee4bc9efdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734412952736
+status: 3
+tags: []
+user_id: abdullah

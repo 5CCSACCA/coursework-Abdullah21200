@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/9ca9c8f29c3540f7bf12564d652ba103/artifacts
+deleted_time: 1734419417757
+end_time: 1734408194390
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 9ca9c8f29c3540f7bf12564d652ba103
+run_name: unique-perch-694
+run_uuid: 9ca9c8f29c3540f7bf12564d652ba103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734408133956
+status: 3
+tags: []
+user_id: abdullah

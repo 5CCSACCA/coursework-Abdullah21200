@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/99597fed37a045648718213b6bca0c4b/artifacts
+deleted_time: 1734350905813
+end_time: 1734349958166
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 99597fed37a045648718213b6bca0c4b
+run_name: aged-mink-272
+run_uuid: 99597fed37a045648718213b6bca0c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734349927075
+status: 3
+tags: []
+user_id: abdullah

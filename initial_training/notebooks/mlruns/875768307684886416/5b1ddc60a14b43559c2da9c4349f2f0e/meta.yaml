@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/5b1ddc60a14b43559c2da9c4349f2f0e/artifacts
+deleted_time: 1734419417710
+end_time: 1734370997083
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 5b1ddc60a14b43559c2da9c4349f2f0e
+run_name: upset-snipe-639
+run_uuid: 5b1ddc60a14b43559c2da9c4349f2f0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734370761788
+status: 3
+tags: []
+user_id: abdullah

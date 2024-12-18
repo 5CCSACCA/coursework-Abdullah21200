@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/996c94a5dd5744499fb112713f8d9c86/artifacts
+deleted_time: 1734419417698
+end_time: 1734357261623
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 996c94a5dd5744499fb112713f8d9c86
+run_name: capricious-fowl-734
+run_uuid: 996c94a5dd5744499fb112713f8d9c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734356999939
+status: 3
+tags: []
+user_id: abdullah

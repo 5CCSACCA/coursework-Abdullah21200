@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/e9c6798fed5d467bbc0355a8d630973e/artifacts
+deleted_time: 1734419417736
+end_time: 1734405190611
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: e9c6798fed5d467bbc0355a8d630973e
+run_name: marvelous-ant-752
+run_uuid: e9c6798fed5d467bbc0355a8d630973e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734405143520
+status: 3
+tags: []
+user_id: abdullah

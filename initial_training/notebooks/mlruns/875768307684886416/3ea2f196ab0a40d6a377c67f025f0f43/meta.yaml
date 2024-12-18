@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/3ea2f196ab0a40d6a377c67f025f0f43/artifacts
+deleted_time: 1734419417747
+end_time: 1734407025779
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 3ea2f196ab0a40d6a377c67f025f0f43
+run_name: skittish-bee-146
+run_uuid: 3ea2f196ab0a40d6a377c67f025f0f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734406994032
+status: 3
+tags: []
+user_id: abdullah

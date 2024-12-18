@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/495cf67af8194f56a1267a033c0e625e/artifacts
+deleted_time: 1734419417734
+end_time: 1734404367280
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 495cf67af8194f56a1267a033c0e625e
+run_name: efficient-cod-147
+run_uuid: 495cf67af8194f56a1267a033c0e625e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734404301927
+status: 3
+tags: []
+user_id: abdullah

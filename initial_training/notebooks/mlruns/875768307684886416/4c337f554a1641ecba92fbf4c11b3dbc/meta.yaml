@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/4c337f554a1641ecba92fbf4c11b3dbc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 4c337f554a1641ecba92fbf4c11b3dbc
+run_name: youthful-gnu-267
+run_uuid: 4c337f554a1641ecba92fbf4c11b3dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734406078276
+status: 1
+tags: []
+user_id: abdullah

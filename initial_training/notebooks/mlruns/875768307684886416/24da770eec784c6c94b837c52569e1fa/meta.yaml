@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/24da770eec784c6c94b837c52569e1fa/artifacts
+deleted_time: 1734419417746
+end_time: 1734406940390
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 24da770eec784c6c94b837c52569e1fa
+run_name: bedecked-wasp-814
+run_uuid: 24da770eec784c6c94b837c52569e1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734406898786
+status: 3
+tags: []
+user_id: abdullah

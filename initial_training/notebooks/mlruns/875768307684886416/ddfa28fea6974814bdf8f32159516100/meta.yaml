@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/ddfa28fea6974814bdf8f32159516100/artifacts
+end_time: 1734413730417
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: ddfa28fea6974814bdf8f32159516100
+run_name: ambitious-cat-31
+run_uuid: ddfa28fea6974814bdf8f32159516100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734413504969
+status: 3
+tags: []
+user_id: abdullah

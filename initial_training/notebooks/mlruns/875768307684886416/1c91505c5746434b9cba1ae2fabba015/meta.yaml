@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/1c91505c5746434b9cba1ae2fabba015/artifacts
+end_time: 1734414055084
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 1c91505c5746434b9cba1ae2fabba015
+run_name: awesome-finch-270
+run_uuid: 1c91505c5746434b9cba1ae2fabba015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734413805345
+status: 3
+tags: []
+user_id: abdullah

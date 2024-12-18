@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/022931deedbd432dba5b3ce3d3c4fcb8/artifacts
+deleted_time: 1734355547619
+end_time: 1734355504885
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 022931deedbd432dba5b3ce3d3c4fcb8
+run_name: colorful-lark-329
+run_uuid: 022931deedbd432dba5b3ce3d3c4fcb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734355504874
+status: 4
+tags: []
+user_id: abdullah

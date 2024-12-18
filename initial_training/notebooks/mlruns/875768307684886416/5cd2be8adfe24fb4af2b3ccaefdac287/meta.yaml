@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/5cd2be8adfe24fb4af2b3ccaefdac287/artifacts
+deleted_time: 1734413089520
+end_time: 1734411282409
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 5cd2be8adfe24fb4af2b3ccaefdac287
+run_name: puzzled-slug-159
+run_uuid: 5cd2be8adfe24fb4af2b3ccaefdac287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734411224633
+status: 3
+tags: []
+user_id: abdullah

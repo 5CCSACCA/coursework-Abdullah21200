@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/a703d3da9110400c93ad843a8e28afc0/artifacts
+end_time: 1734375982634
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: a703d3da9110400c93ad843a8e28afc0
+run_name: learned-cow-604
+run_uuid: a703d3da9110400c93ad843a8e28afc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734375961235
+status: 4
+tags: []
+user_id: abdullah

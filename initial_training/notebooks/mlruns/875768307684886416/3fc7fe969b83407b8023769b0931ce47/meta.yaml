@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/3fc7fe969b83407b8023769b0931ce47/artifacts
+end_time: 1734368727130
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 3fc7fe969b83407b8023769b0931ce47
+run_name: enchanting-tern-863
+run_uuid: 3fc7fe969b83407b8023769b0931ce47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734368666294
+status: 3
+tags: []
+user_id: abdullah

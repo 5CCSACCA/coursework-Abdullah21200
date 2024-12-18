@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/0760f70bfedf4d8d97e0f35c01c84a02/artifacts
+deleted_time: 1734350905813
+end_time: 1733945281435
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 0760f70bfedf4d8d97e0f35c01c84a02
+run_name: inquisitive-mink-203
+run_uuid: 0760f70bfedf4d8d97e0f35c01c84a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733945251964
+status: 3
+tags: []
+user_id: abdullah

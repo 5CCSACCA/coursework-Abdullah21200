@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/4c805023bb514e90affb6614f7fcdffa/artifacts
+end_time: 1734368227636
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 4c805023bb514e90affb6614f7fcdffa
+run_name: auspicious-skunk-215
+run_uuid: 4c805023bb514e90affb6614f7fcdffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734368164302
+status: 3
+tags: []
+user_id: abdullah

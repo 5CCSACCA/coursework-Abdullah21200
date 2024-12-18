@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/aa8776707e9646229a1f78e459846579/artifacts
+deleted_time: 1734419417755
+end_time: 1734407566722
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: aa8776707e9646229a1f78e459846579
+run_name: sneaky-cub-896
+run_uuid: aa8776707e9646229a1f78e459846579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734407512595
+status: 3
+tags: []
+user_id: abdullah

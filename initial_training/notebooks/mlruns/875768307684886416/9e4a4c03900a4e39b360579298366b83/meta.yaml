@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/9e4a4c03900a4e39b360579298366b83/artifacts
+end_time: 1734377527344
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 9e4a4c03900a4e39b360579298366b83
+run_name: unleashed-squid-266
+run_uuid: 9e4a4c03900a4e39b360579298366b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734377484258
+status: 3
+tags: []
+user_id: abdullah

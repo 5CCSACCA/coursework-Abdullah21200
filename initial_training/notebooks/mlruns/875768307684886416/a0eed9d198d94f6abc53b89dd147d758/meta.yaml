@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/a0eed9d198d94f6abc53b89dd147d758/artifacts
+deleted_time: 1734419417693
+end_time: 1734356091588
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: a0eed9d198d94f6abc53b89dd147d758
+run_name: sincere-bat-413
+run_uuid: a0eed9d198d94f6abc53b89dd147d758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734356059361
+status: 3
+tags: []
+user_id: abdullah

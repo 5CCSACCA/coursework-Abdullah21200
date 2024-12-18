@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/653554b1736a41c28ff2e1a11c28bcb1/artifacts
+end_time: 1734407748417
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: active
+run_id: 653554b1736a41c28ff2e1a11c28bcb1
+run_name: bittersweet-colt-572
+run_uuid: 653554b1736a41c28ff2e1a11c28bcb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734407718738
+status: 3
+tags: []
+user_id: abdullah

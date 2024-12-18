@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/8e11ebebfa384232ba4f49958934c3b9/artifacts
+deleted_time: 1734419417770
+end_time: 1734410328867
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 8e11ebebfa384232ba4f49958934c3b9
+run_name: resilient-snipe-311
+run_uuid: 8e11ebebfa384232ba4f49958934c3b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734410298190
+status: 3
+tags: []
+user_id: abdullah

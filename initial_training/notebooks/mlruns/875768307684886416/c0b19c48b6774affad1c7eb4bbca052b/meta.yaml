@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/c0b19c48b6774affad1c7eb4bbca052b/artifacts
+deleted_time: 1734419417691
+end_time: 1734350972306
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: c0b19c48b6774affad1c7eb4bbca052b
+run_name: nervous-auk-231
+run_uuid: c0b19c48b6774affad1c7eb4bbca052b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734350940647
+status: 3
+tags: []
+user_id: abdullah

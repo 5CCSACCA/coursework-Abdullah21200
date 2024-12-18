@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/df90786eb89746b68a14291f1e79c8c6/artifacts
+deleted_time: 1734419417745
+end_time: 1734405299685
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: df90786eb89746b68a14291f1e79c8c6
+run_name: blushing-vole-939
+run_uuid: df90786eb89746b68a14291f1e79c8c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734405235082
+status: 3
+tags: []
+user_id: abdullah

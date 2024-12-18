@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/bf170aaa02d24b1986e7835941b317e6/artifacts
+deleted_time: 1734419417763
+end_time: 1734408353113
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: bf170aaa02d24b1986e7835941b317e6
+run_name: angry-crab-810
+run_uuid: bf170aaa02d24b1986e7835941b317e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734408330955
+status: 3
+tags: []
+user_id: abdullah

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/initial_training/notebooks/mlruns/875768307684886416/98a65fcd3f95467f87507dc1c7d3a921/artifacts
+deleted_time: 1734419417712
+end_time: 1734376960996
+entry_point_name: ''
+experiment_id: '875768307684886416'
+lifecycle_stage: deleted
+run_id: 98a65fcd3f95467f87507dc1c7d3a921
+run_name: painted-lark-164
+run_uuid: 98a65fcd3f95467f87507dc1c7d3a921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734376910274
+status: 3
+tags: []
+user_id: abdullah

@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: shared-storage-pv
+spec:
+  capacity:
+    storage: 1Gi # This is the size of the volume
+  accessModes:
+    - ReadWriteMany
+  hostPath:
+    path: /shared_model  # Path inside the Kind node container

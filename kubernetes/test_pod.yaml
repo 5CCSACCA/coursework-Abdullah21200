@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: finetuning-test-pod
+spec:
+  containers:
+    - name: prediction-container
+      image: prediction_service_image:latest  # Use your image name
+      command: ["python3", "--version"]       # Simple test: Print Python version

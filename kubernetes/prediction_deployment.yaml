@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: prediction-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: prediction
+  template:
+    metadata:
+      labels:
+        app: prediction
+    spec:
+      containers:
+      - name: prediction-service
+        image: prediction_service_image:latest # Replace with your image name
+        ports:
+        - containerPort: 8000
+        volumeMounts:
+        - name: shared-model
+          mountPath: /shared_model
+      volumes:
+      - name: shared-model
+        persistentVolumeClaim:
+          claimName: shared-storage-pvc
+      - name: database
+        persistentVolumeClaim:
+          claimName: shared-storage-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: prediction-service
+spec:
+  selector:
+    app: prediction
+  ports:
+  - protocol: TCP
+    port: 8000
+    targetPort: 8000
+  type: NodePort

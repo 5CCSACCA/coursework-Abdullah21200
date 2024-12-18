@@ -1,0 +1,10 @@
+run these commands to apply the yaml files
+
+# This creates a cluster 
+kind create cluster --name mycluster --config kind_config.yaml
+
+#This applys the PV, PVS, Cronjob and deployment 
+kubectl apply -f shared_storage_pv.yaml
+kubectl apply -f shared_storage_pvc.yaml
+kubectl apply -f finetuning_job.yaml
+kubectl apply -f prediction_service_deployment.yaml

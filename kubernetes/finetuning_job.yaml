@@ -1,0 +1,26 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: finetuning-job
+spec:
+  schedule: "0 3 * * 6" # e.g., every Saturday at 3 AM
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: finetuning
+            image: finetuning_service_image:latest # Replace with your image name
+            volumeMounts:
+            - name: shared-model
+              mountPath: /shared_model
+            - name: database
+              mountPath: /app/database
+          volumes:
+          - name: shared-model
+            persistentVolumeClaim:
+              claimName: shared-storage-pvc
+          - name: database
+            persistentVolumeClaim:
+              claimName: shared-storage-pvc
+          restartPolicy: OnFailure

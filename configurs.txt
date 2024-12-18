@@ -1,0 +1,47 @@
+# firsly make sure youre in the correct directory when running,build or testing 
+
+# create image in finetuning/app directory
+
+    docker build -t finetuning_service_image:latest .
+    docker build -t prediction_service_image:latest .
+
+# create a cluster called mycluster
+    kind create cluster --name predictioncluster --config kind_config.yaml --> its important you go into this file 
+                                                                                    and put abs path of <shared_model>
+
+# add finetuning image (or any other image) to cluster
+    kind load docker-image finetuning_service_image:latest --name predictioncluster
+    kind load docker-image prediction_service_image:latest --name predictioncluster
+
+
+# apply these configs to mount model *Important*
+    kubectl apply -f shared_storage_pv.yaml
+    kubectl apply -f shared_storage_pvc.yaml
+    kubectl apply -f finetuning_job.yaml
+    kubectl apply -f prediction_deployment.yaml
+
+# port forward to access the service
+    kubectl port-forward service/prediction-service 10000:8000
+
+# login to create a session
+    curl -X POST "http://localhost:30000/login" -u user1:xxxxxx -i
+
+# copy set cookies data from the response and paste it in the next curl command
+    curl -X POST "http://localhost:30000/predict?days=5" -H "Cookie: <ccopied_cookie-data>" 
+    
+
+
+# gets the cron jobs 
+    kubectl get cronjobs
+
+# add test pod for test
+    kubectl apply -f test_pod.yaml
+
+    kubectl get pods # for verification
+
+# running this will fail due to it being Cronjob
+    kubectl logs finetuning-test-pod
+
+# deleting clusters
+kind delete cluster --name <cluster-name>
+

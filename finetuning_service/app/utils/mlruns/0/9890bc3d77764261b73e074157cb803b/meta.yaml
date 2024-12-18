@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/9890bc3d77764261b73e074157cb803b/artifacts
+end_time: 1734496714628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9890bc3d77764261b73e074157cb803b
+run_name: able-yak-85
+run_uuid: 9890bc3d77764261b73e074157cb803b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734496711406
+status: 4
+tags: []
+user_id: abdullah

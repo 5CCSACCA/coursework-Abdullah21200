@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/a9643cc4f8c74305a2cd06fbad0600a2/artifacts
+end_time: 1734497458449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9643cc4f8c74305a2cd06fbad0600a2
+run_name: sneaky-conch-926
+run_uuid: a9643cc4f8c74305a2cd06fbad0600a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734497447948
+status: 3
+tags: []
+user_id: abdullah

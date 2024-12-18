@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/15d3d293bbe14f4f89044a6d4f34a75f/artifacts
+end_time: 1734496595324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15d3d293bbe14f4f89044a6d4f34a75f
+run_name: aged-midge-324
+run_uuid: 15d3d293bbe14f4f89044a6d4f34a75f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734496595315
+status: 4
+tags: []
+user_id: abdullah

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/6638dde14dd24568b15a91b0110efe99/artifacts
+end_time: 1734521690950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6638dde14dd24568b15a91b0110efe99
+run_name: upset-vole-26
+run_uuid: 6638dde14dd24568b15a91b0110efe99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734521682298
+status: 3
+tags: []
+user_id: abdullah

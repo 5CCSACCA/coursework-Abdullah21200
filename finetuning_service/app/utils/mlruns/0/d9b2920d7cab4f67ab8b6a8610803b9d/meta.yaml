@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/d9b2920d7cab4f67ab8b6a8610803b9d/artifacts
+end_time: 1734494649773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9b2920d7cab4f67ab8b6a8610803b9d
+run_name: bedecked-midge-180
+run_uuid: d9b2920d7cab4f67ab8b6a8610803b9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734494649760
+status: 4
+tags: []
+user_id: abdullah

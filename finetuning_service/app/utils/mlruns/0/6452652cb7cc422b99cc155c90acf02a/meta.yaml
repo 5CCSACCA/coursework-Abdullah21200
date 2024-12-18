@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/6452652cb7cc422b99cc155c90acf02a/artifacts
+end_time: 1734497354984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6452652cb7cc422b99cc155c90acf02a
+run_name: whimsical-snail-610
+run_uuid: 6452652cb7cc422b99cc155c90acf02a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734497352009
+status: 4
+tags: []
+user_id: abdullah

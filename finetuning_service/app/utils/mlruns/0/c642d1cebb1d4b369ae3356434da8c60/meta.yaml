@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/c642d1cebb1d4b369ae3356434da8c60/artifacts
+end_time: 1734497225913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c642d1cebb1d4b369ae3356434da8c60
+run_name: bittersweet-calf-194
+run_uuid: c642d1cebb1d4b369ae3356434da8c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734497222875
+status: 4
+tags: []
+user_id: abdullah

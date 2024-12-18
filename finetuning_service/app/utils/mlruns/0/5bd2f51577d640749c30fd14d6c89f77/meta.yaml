@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abdullah/ai_workspace/project/Stock_prediction_project/finetuning_service/app/utils/mlruns/0/5bd2f51577d640749c30fd14d6c89f77/artifacts
+end_time: 1734499742423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bd2f51577d640749c30fd14d6c89f77
+run_name: incongruous-loon-921
+run_uuid: 5bd2f51577d640749c30fd14d6c89f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734499737584
+status: 4
+tags: []
+user_id: abdullah
